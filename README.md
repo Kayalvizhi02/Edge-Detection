@@ -7,21 +7,21 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
-
-
+Import the necessary modules.
 ### Step2:
-<br>
+Load a image using imread() from cv2 module.
 
 ### Step3:
-<br>
+Convert the image to grayscale.
 
 ### Step4:
-<br>
+Using Sobel operator from cv2,detect the edges of the image.
 
 ### Step5:
-<br>
+Using Laplacian operator from cv2,detect the edges of the image.
 
+### Step6:
+Using Canny operator from cv2,detect the edges of the image.
  
 ## Program:
 
